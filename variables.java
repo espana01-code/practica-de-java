@@ -1,4 +1,4 @@
-public class Variables {
+public class variables {
     public static void main(String[] args) {
         System.out.println("Hola Mundo a todos");
 
@@ -11,8 +11,8 @@ public class Variables {
         double estatura = 1.68;
         boolean estudiantes = true;
         System.out.println("Me llamo " + nombre + " y tengo " + edad + " años");
-        System.err.println("mi estatura es " + estatura + " metros");
-        System.err.println("¿Soy estudiante de la univercidad" + estudiantes);
+        System.out.println("mi estatura es " + estatura + " metros");
+        System.out.println("¿Soy estudiante de la univercidad" + estudiantes);
 
     }
 }
